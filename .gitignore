@@ -1,0 +1,6 @@
+.ipynb_checkpoints/
+.vscode/
+venv/
+.env
+.DS_Store
+spam_classifier.pth
