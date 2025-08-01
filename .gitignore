@@ -4,3 +4,4 @@ venv/
 .env
 .DS_Store
 spam_classifier.pth
+optimized_roberta_spam_classifier.pth
